@@ -1,5 +1,6 @@
 # 💫About Me :
 🔭 I major in Software Engineering at FPT University
+
 🌱 I’m a passionate full-stack developer
 
 # 💻Tech Stack
